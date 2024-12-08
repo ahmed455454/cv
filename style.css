@@ -1,0 +1,10 @@
+body{background-color: rgba(170, 119, 25, 0.377);}
+img{clip-path:circle(50% at 50%) ;}
+
+h1{border-style: outset;
+    font-family: "Bebas Neue", sans-serif;
+}
+h2{background:rgb(226, 176, 82) ;}
+h2{border-style: outset;}
+.my-skills{  font-family: "PT Sans Narrow", sans-serif;}
+
